@@ -22,7 +22,7 @@ npm run preview    # посмотреть собранный сайт: http://lo
 
 ## Публикация
 
-Сайт опубликован на GitHub Pages: https://abdullohzokirov.github.io/portfolio/
+Сайт опубликован на GitHub Pages с доменом https://portfolio.abdullohzokirov.uz/ (DNS — Cloudflare: CNAME `portfolio` → `abdullohzokirov.github.io`).
 
 Обновить сайт после изменений:
 

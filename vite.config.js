@@ -1,7 +1,8 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/portfolio/', // GitHub Pages: https://abdullohzokirov.github.io/portfolio/
+  // свой домен portfolio.abdullohzokirov.uz — сайт в корне; для адреса github.io/portfolio: SITE_BASE=/portfolio/
+  base: process.env.SITE_BASE || '/',
   build: {
     target: 'es2020',
     assetsInlineLimit: 0,

@@ -10,4 +10,4 @@ run('git init -q -b gh-pages', o);
 run('git add -A', o);
 run('git -c user.name="Abdulloh Zokirov" -c user.email="AbdullohZokirov@users.noreply.github.com" commit -q -m "Публикация сайта"', o);
 run(`git push -f "${remote}" gh-pages`, o);
-console.log('Готово: https://abdullohzokirov.github.io/portfolio/');
+console.log('Готово: https://portfolio.abdullohzokirov.uz/');
