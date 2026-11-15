@@ -1,0 +1,15 @@
+# Abdulloh Zokirov
+
+> Портфолио веб-разработчика и motion-дизайнера: сайты, Telegram-боты, подключение API и motion-видео.
+
+## Работы
+
+- MultiTarjima — веб-приложение для изучения английского (CEO): https://www.multitarjima.xyz/
+- Vibe School — сайт и промо-ролик платформы курсов: https://vibeschool.uz/
+- T Stars — Telegram Mini App и бот @Tobunabot: https://t.me/Tobunabot
+- AI Obuna — Telegram-бот подписок: https://t.me/Aiobunabot
+- Motion: концепт-ролики Yandex Go, Uzum Tezkor, промо графического дизайнера, реклама «Biznesingiz yordamchisi», шоурил
+
+## Связь
+
+- Telegram: https://t.me/Abdulloh_ZokirovN
